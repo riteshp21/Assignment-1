@@ -40,7 +40,7 @@ class Test1:
             logging.error("Error has occured", exc_info = True)
 
 
-#Extracting list from mail List l
+#Extracting list from main List l
 
     def list_extraction(self,l):
         try:
